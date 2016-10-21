@@ -1,0 +1,26 @@
+.classic .table {
+    border: 2px solid black;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.classic .table th {
+    background-color: lightslategray;
+    font-weight: bold;
+}
+
+.classic .table td, .classic .table th {
+     border: 1px solid black;
+ }
+
+
+
+.classic .arrow-up, .classic .arrow-down {
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+
+
