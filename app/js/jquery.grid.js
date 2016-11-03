@@ -88,8 +88,6 @@
 
                     }
 
-
-
                     var compA = vc;
                     var compB = vc1;
                     return (compA < compB) ? -1 : (compA > compB) ? 1 : 0;
