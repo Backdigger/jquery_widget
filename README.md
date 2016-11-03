@@ -6,6 +6,22 @@ To set up the project, do:
 3. npm install --save-dev gulp
 4. gulp webserver
 
-To use the plugin to create your own sortable table with different types of data, insert link to jquery.grid.js into your project. The table will be created in the div with id 'grid'
+
+Technologies used:
+
+- HTML 5
+- CSS 3
+- JavaScript (JQuery UI)
+- npm
+- gulp
+
+
+Task: 
+- Create table grid by parsing data from JSON file
+- Table cells to have 4 types of widgets: header, labels, inputs and date
+- Customize widgets' creation by using JQuery Widget Factory
+- Input cell widget to be editable
+- Date Cell widget to display in 3 date formats
+- Table headers to have 2 arrows to sort content in ascending/descending order.
 
 ```
